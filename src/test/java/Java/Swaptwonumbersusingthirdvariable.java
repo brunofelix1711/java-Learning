@@ -11,7 +11,6 @@ public class Swaptwonumbersusingthirdvariable {
         Scanner sc = new Scanner(System.in);
 
 
-
         System.out.println("Enter the values of X and Y");
 
         x = sc.nextInt();
