@@ -3,14 +3,14 @@ package Java;
 public class ReverseStringwithoutInbuildfunction {
     public static void main(String[] args) {
 
-        String letter="Automation";
+        String name = "Automation learning";
 
-        String reverseletter="";
 
-        for(int i=letter.length()-1;i>=0;--i)
-{
-    reverseletter+=letter.charAt(i);
+        String reversename = "";
+
+        for (int i = name.length() - 1; i >= 0; --i) {
+            reversename += name.charAt(i);
+        }
+        System.out.println(reversename);
     }
-System.out.println(reverseletter);
-}
 }

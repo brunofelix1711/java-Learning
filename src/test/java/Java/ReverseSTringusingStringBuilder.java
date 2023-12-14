@@ -3,12 +3,13 @@ package Java;
 public class ReverseSTringusingStringBuilder {
     public static void main(String[] args) {
 
-       String name="my name is automation";
+    String name="learn automation online";
 
-       StringBuilder builder=new StringBuilder(name);
+    StringBuilder builder =new StringBuilder(name);
 
-       name=builder.reverse().toString();
+    name=builder.reverse().toString();
 
-       System.out.println(name);
+    System.out.println(name);
+
     }
 }
