@@ -21,6 +21,7 @@ public class ReverseaNumber {
 
         }
 
-
+System.out.println(rev);
     }
+
 }
