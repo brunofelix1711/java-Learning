@@ -2,6 +2,8 @@ package Array_Programs;
 
 import java.util.Arrays;
 
+//This is the descending sort
+
 public class BubbleSort {
 
      static void bubblesort(int[] array){
