@@ -2,7 +2,7 @@ package Java;
 
 import java.util.HashMap;
 
-public class CountTheString {
+public class CountOfEachcharacterinString {
     public static void main(String[] args) {
 
 
